@@ -1,16 +1,16 @@
 
 <h2 align="center">STATS<h2>
 
-|                 |                 |
-|:---------------:|:---------------:|
-| ![stats][stats] | ![land][lang]   |
+|                 |
+|:---------------:|
+| ![stats][stats] |
 
-<h2 align="center">Repo Card<h2>
+<!-- <h2 align="center">Repo Card<h2> -->
 
-| | |
+<!-- | | |
 |:--:|:--:| 
 | ![discord_bots_repo][discord_bots_repo]|![discord_bots_lang][discord_bots_lang]|
-| ![cpp_repo][cpp_repo]|![cpp_lang][cpp_lang] |
+| ![cpp_repo][cpp_repo]|![cpp_lang][cpp_lang] | -->
 
 
 [stats]: https://github-readme-stats.vercel.app/api?username=hachimetsu&show_icons=true&cache_seconds=86400
